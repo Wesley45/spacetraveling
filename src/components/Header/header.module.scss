@@ -1,1 +1,13 @@
-// TODO
+.header {
+  margin: 2.5rem auto;
+  max-width: 1120px;
+
+  .contentContainer {
+    margin: 0 auto;
+    max-width: 720px;
+
+    a {
+      display: inline-block;
+    }
+  }
+}
